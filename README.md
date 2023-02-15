@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidh120
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue.Js
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web pages
 - 📫 How to reach me email: david.antonio12@hotmail.com
 
