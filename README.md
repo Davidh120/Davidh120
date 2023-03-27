@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm David a tech-passionate full-stack web developer, building innovative solutions through teamwork.<br>📫Shoot me an Email or add me on Linkedin.<br> 📫 How to reach me email: david.antonio12@hotmail.com
+👋 Hi, I'm David a tech-passionate full-stack web developer, building innovative solutions through teamwork.<br>💬Shoot me an Email or add me on Linkedin.<br> 📫 How to reach me email: david.antonio12@hotmail.com
 
 
 ## 🌐 Socials:
